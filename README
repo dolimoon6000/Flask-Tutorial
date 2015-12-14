@@ -1,5 +1,0 @@
-To run the program, first make sure you're in flasktest virtual env. Then run the command:
-
-python flaskr.py
-
-Then you can visit the site at http://localhost:5000
